@@ -1,1 +1,3 @@
-# init-self-Function
+# init-self-Function 
+Init and Self are Very useful function...
+if you want more you can learn it in python Object and classes
